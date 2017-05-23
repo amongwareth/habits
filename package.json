@@ -1,0 +1,11 @@
+{
+  "name": "habits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amongwareth/habits.git",
+  "author": "Alexis Berges <amongwareth@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-css": "^4.0.0-alpha.5"
+  }
+}
