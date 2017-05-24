@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-bootstrap-css@^4.0.0-alpha.5:
-  version "4.0.0-alpha.5"
-  resolved "https://registry.yarnpkg.com/bootstrap-css/-/bootstrap-css-4.0.0-alpha.5.tgz#2001956f56893501f19cf0d956d0cd0dad3fe287"
+bootstrap@^3.3.7:
+  version "3.3.7"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.3.7.tgz#5a389394549f23330875a3b150656574f8a9eb71"
 
 font-awesome@^4.7.0:
   version "4.7.0"
@@ -18,6 +18,6 @@ jquery@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
 
-respond@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/respond/-/respond-0.9.0.tgz#fd8c298efe03b3bb7f4fc4cb58ddd7f34b51cd68"
+respond.js@^1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/respond.js/-/respond.js-1.4.2.tgz#fd5c07450acce6090916d8d090b86b672dd9748b"
