@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{request.locale_name}}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Habits</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this scaffold -->
+    <link href="/static/css/theme.css?cacheId${view.build_cache_id('/static/css/theme.css')}" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="/static/node_modules/html5shiv/dist/html5shiv.min.js"></script>
+    <script src="/static/node_modules/respond.js/dest/respond.min.js"></script>
+    <!endif--> 
+</head>
+
+<body>
+
+<div class="nav">
+    <a href="/home/index">home</a>
+    <a href="/home/books">books</a>
+    <a href="/home/memory">memory</a>
+</div>
+
+<div class="main_content">
+    <h1>Index page</h1>
+    <div>The value of the controller is ${value}</div>
+</div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="/static/node_modules/jquery/dist/jquery.min.js"></script>
+<script src="/static/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
